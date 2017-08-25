@@ -1,2 +1,2 @@
-# np-lang-processing
+# np_lang
 modules for Nepali language processing
